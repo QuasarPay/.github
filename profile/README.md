@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./qpsfun.png" alt="qps_banner" width="full" />
+  <img src="https://i.imgur.com/yRwTsUf.png" alt="qps_banner" width="full" />
 </p>
